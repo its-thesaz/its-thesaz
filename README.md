@@ -96,3 +96,6 @@ I work with **Java, Python, JavaScript**, and I breathe **Linux** & **Open Sourc
 ✨ *Crafted with love & clean code* ✨
 
 </div>
+---
+<img src="https://github.com/its-thesaz/its-thesaz/blob/main/title-scrop.png" alt="CoVer aRt" />
+---

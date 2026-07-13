@@ -70,15 +70,15 @@ I work with **Java, Python, JavaScript**, and I breathe **Linux** & **Open Sourc
 ## 🌐 • Connect with ME
 
 <p align="center">
-  <a href="https://t.me/your_telegram_username">
+  <a href="https://t.me/the_saz">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=0a0a0a&labelColor=26A5E4" />
   </a>
-  <a href="https://your-custom-link.com">
+  <a href="https://zaya.io/thesaz">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0a0a0a&labelColor=000000" />
   </a>
 </p>
 
-*(Replace `your_telegram_username` and `your-custom-link.com` with your actual links)*
+
 
 ---
 

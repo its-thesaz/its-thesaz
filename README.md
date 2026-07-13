@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://github.com/its-thesaz/its-thesaz/blob/main/imagination-a0b08d0f-c766-46b2-b026-2acd580d7858.png" alt="Profile" />
 <!-- TYPING ANIMATION با دامنه‌ی جایگزین -->
 <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=700&size=40&pause=1000&color=F5C518&center=true&vCenter=true&random=false&width=700&lines=✦+THE+SAZ+✦;Backend+%26+Frontend+Architect;Python+%7C+Java+%7C+JavaScript;Linux+Lover+%26+Open+Source+Addict" alt="Typing SVG" />
 

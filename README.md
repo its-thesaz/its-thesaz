@@ -9,7 +9,7 @@
 <br>
 
 <!-- بازدیدکنندگان با استایل جدید -->
-<img src="https://komarev.com/ghpvc/?username=its-thesaz&color=gold&style=for-the-badge&label=✦+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=its-thesaz&color=red&style=for-the-badge&label=✦+VISITORS" />
 
 <br><br>
 

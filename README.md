@@ -55,17 +55,6 @@ I work with **Java, Python, JavaScript**, and I breathe **Linux** & **Open Sourc
 
 <br>
 
-## 📊 • Live Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-thesaz&show_icons=true&hide_border=true&theme=github_dark&bg_color=0a0a0a&title_color=F5C518&icon_color=F5C518&text_color=cccccc&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-thesaz&hide_border=true&theme=dark&background=0a0a0a&stroke=333333&ring=F5C518&fire=F5C518&currStreakLabel=F5C518" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-thesaz&layout=compact&hide_border=true&theme=github_dark&bg_color=0a0a0a&title_color=F5C518&text_color=cccccc" width="40%" />
-</p>
-
 ---
 
 <br>

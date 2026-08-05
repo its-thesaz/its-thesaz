@@ -54,9 +54,9 @@ I work with **Java, Python, JavaScript**, and I breathe **Linux** & **Open Sourc
 ---
 
 <br>
-
+Indifferent to everything 🗿 
 ---
-
+Indifferent to everyone 🗿
 <br>
 
 ## 🌐 • Connect with ME
